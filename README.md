@@ -1,16 +1,16 @@
-## Hi there 👋
+## E aii!! 😄👾
 
 <!--
-**luibuzolin/luibuzolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋 Meu nome é Luiz Otávio Buzolin, mas pode me chamar de **Luiz**. 🌱 Eu sou do interior de São Paulo, mas atualmente estou na correria da capital, estudando **Ciência de Dados no programa de Pós-Graduação do Insper**.
 
-Here are some ideas to get you started:
+Eu na verdade sou graduado em Administração Pública pela UNESP, mas minhas experiências profissionais, todas voltadas para a análise de dados em negócios, despertaram meu interesse por essa área fascinante.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Além dos números e insights, sou fã de um bom café ☕, uma cerveja gelada 🍺, e uma boa conversa (de preferência com os dois anteriores ao lado 😄).
+
+Aqui no meu GitHub, você encontrará um pouco das análises e projetos que faço para consolidar meus aprendizados e conhecimentos em Data Science e Analytics. Se você também curte aprender e discutir sobre dados, fique à vontade para explorar, colaborar ou simplesmente bater um papo!
+
+Vamos nessa? 😎
+
+**Ferramentas:**
+![logo R](https://www.r-project.org/logo/Rlogo.png) ![logo python](https://legacy.python.org/community/logos/python-logo-master-v3-TM.png)  ![logo git](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
 -->
