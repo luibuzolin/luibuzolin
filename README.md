@@ -11,4 +11,6 @@ Aqui no meu GitHub, você encontrará um pouco das análises e projetos que faç
 Vamos nessa? 😎
 
 **Ferramentas:**
-![logo R](https://www.r-project.org/logo/Rlogo.png) ![logo python](https://legacy.python.org/community/logos/python-logo-master-v3-TM.png)  ![logo git](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40"/> 
+<img src="https://legacy.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="40"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="Git" width="40"/>
