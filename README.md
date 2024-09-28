@@ -1,6 +1,5 @@
 ## E aii!! 😄👾
 
-<!--
 Olá! 👋 Meu nome é Luiz Otávio Buzolin, mas pode me chamar de **Luiz**. 🌱 Eu sou do interior de São Paulo, mas atualmente estou na correria da capital, estudando **Ciência de Dados no programa de Pós-Graduação do Insper**.
 
 Eu na verdade sou graduado em Administração Pública pela UNESP, mas minhas experiências profissionais, todas voltadas para a análise de dados em negócios, despertaram meu interesse por essa área fascinante.
@@ -13,4 +12,3 @@ Vamos nessa? 😎
 
 **Ferramentas:**
 ![logo R](https://www.r-project.org/logo/Rlogo.png) ![logo python](https://legacy.python.org/community/logos/python-logo-master-v3-TM.png)  ![logo git](https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png)
--->
