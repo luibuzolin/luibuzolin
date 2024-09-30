@@ -13,5 +13,6 @@ Vamos nessa? 😎
 **Ferramentas:**
 
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40"/> 
-<img src="https://legacy.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python" width="50"/>
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="40"/>
+![Jupyter](./luizbuzolin/jupyter-seeklogo.svg)
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="Git" width="50"/>
