@@ -11,8 +11,9 @@ Aqui no meu GitHub, você encontrará um pouco das análises e projetos que faç
 Vamos nessa? 😎
 
 **Ferramentas:**
-
+<p>
 <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40"/> 
 <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="40"/>
 <img src="jupyter-logo.png" alt="Jupyter" width="40"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="Git" width="50"/>
+</p>
