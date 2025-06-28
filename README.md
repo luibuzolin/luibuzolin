@@ -4,11 +4,7 @@ Olá! 👋 Meu nome é Luiz Otávio Buzolin, mas pode me chamar de **Luiz**. �
 
 Eu na verdade sou graduado em Administração Pública pela UNESP, mas minhas experiências profissionais, todas voltadas para a análise de dados em negócios, despertaram meu interesse por essa área fascinante.
 
-Além dos números e insights, sou fã de um bom café ☕, uma cerveja gelada 🍺, e uma boa conversa (de preferência com os dois anteriores ao lado 😄).
-
 Aqui no meu GitHub, você encontrará um pouco das análises e projetos que faço para consolidar meus aprendizados e conhecimentos em Data Science e Analytics. Se você também curte aprender e discutir sobre dados, fique à vontade para explorar, colaborar ou simplesmente bater um papo!
-
-Vamos nessa? 😎
 
 **Ferramentas:**
 <p>
