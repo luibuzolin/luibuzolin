@@ -1,4 +1,4 @@
-## E aii!! 😄👾
+## E aii!! 😄
 
 Olá! 👋 Meu nome é Luiz Otávio Buzolin, mas pode me chamar de **Luiz**. 🌱 Eu sou do interior de São Paulo, mas atualmente estou na correria da capital, estudando **Ciência de Dados no programa de Pós-Graduação do Insper**.
 
